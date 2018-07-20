@@ -1,0 +1,1 @@
+# aws-es-indices-cleanup
